@@ -10,7 +10,6 @@ Desafio de Automação de Testes - Helpdesk API
 ## Pre requisitos
 
 - Node.js
-- Package manager `npm` or `yarn`
 - Helpdesk API running locally at `http://localhost:3000`
 
 ## Como rodar os testes
@@ -37,5 +36,3 @@ Desafio de Automação de Testes - Helpdesk API
 5. Rodar os testes
 
 - npx cypress open
-
-- npx cypress run (to generate mochawesome reports)
