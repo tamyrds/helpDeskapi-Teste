@@ -24,7 +24,7 @@ Desafio de Automação de Testes - Helpdesk API
 
 - npm install
 
-3. Start the API server
+3. Inicie a API server
 
 - node server.js
 
