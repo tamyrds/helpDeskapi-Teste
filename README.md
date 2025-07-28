@@ -30,7 +30,7 @@ Desafio de Automação de Testes - Helpdesk API
 
 4. Clona o repositorio de teste
 
-- git clone 
+- git clone https://github.com/tamyrds/helpDeskapi-Teste
 - cd helpdesk-api-tests
 - npm install
 
