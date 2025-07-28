@@ -24,13 +24,13 @@ Desafio de Automação de Testes - Helpdesk API
 
 - npm install
 
-3. Start the API server
+3. Inicie a API server
 
 - node server.js
 
 4. Clona o repositorio de teste
 
-- git clone 
+- git clone https://github.com/tamyrds/helpDeskapi-Teste
 - cd helpdesk-api-tests
 - npm install
 
